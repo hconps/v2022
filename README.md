@@ -119,7 +119,7 @@
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/ugvf2009/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/hconps/v2022/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 # 示例图
